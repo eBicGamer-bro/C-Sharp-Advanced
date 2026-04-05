@@ -1,0 +1,14 @@
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\bin\Debug\net8.0\Assignment 1 C# Advanced.exe
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\bin\Debug\net8.0\Assignment 1 C# Advanced.deps.json
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\bin\Debug\net8.0\Assignment 1 C# Advanced.runtimeconfig.json
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\bin\Debug\net8.0\Assignment 1 C# Advanced.dll
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\bin\Debug\net8.0\Assignment 1 C# Advanced.pdb
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\obj\Debug\net8.0\Assignment 1 C# Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\obj\Debug\net8.0\Assignment 1 C# Advanced.AssemblyInfoInputs.cache
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\obj\Debug\net8.0\Assignment 1 C# Advanced.AssemblyInfo.cs
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\obj\Debug\net8.0\Assignment 1 C# Advanced.csproj.CoreCompileInputs.cache
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\obj\Debug\net8.0\Assignment 1 C# Advanced.dll
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\obj\Debug\net8.0\refint\Assignment 1 C# Advanced.dll
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\obj\Debug\net8.0\Assignment 1 C# Advanced.pdb
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\obj\Debug\net8.0\Assignment 1 C# Advanced.genruntimeconfig.cache
+D:\College\Backend Track Course\Assignments\Assignment 1 C# Advanced\obj\Debug\net8.0\ref\Assignment 1 C# Advanced.dll
